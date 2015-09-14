@@ -1,0 +1,11 @@
+.ui-widget-header {
+	background: none;
+}
+
+.fixed {
+        position: fixed;
+}
+
+.slider-input {
+	border: none;
+}
